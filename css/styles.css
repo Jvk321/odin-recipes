@@ -1,8 +1,15 @@
+* {
+    background-color: #eee;
+}
 #heading {
     font-family: monospace, sans-serif;
     font-size: 40px;
     color: rgb(206 151 62);
 }
 
-
+.un-list {
+    color: rgb(224 160 62);
+    font-size: 18px;
+    font-weight: 600;
+}
 
